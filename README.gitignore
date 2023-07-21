@@ -1,1 +1,8 @@
-| 
+|    The password generator has multiple passes for the user
+    to decide which characters they'd like to enable when
+    the password is created. It can also be betweeen 8 to
+    128 characters long.
+
+|   Screenshot is titled, "sc.png"
+
+|   Link: https://warrenk0126.github.io/WK-PW-Gen/
